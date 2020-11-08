@@ -1,6 +1,7 @@
 # proposal
 
 Proposal of my final project 
+
 Compared with last year, the number of College Students' recruitment demand decreased by 16.77% in the first quarter, and the number of job applicants increased by 69.82%. The CIER index was lower than that of 2.82 in the same period of last year. 
 From the perspective of expected employment industry, graduates are more inclined to the new economy industry, with the highest proportion of 25.1% expected to work in it / communication / Internet industry. 
 In view of the rapidly changing job market, as a graduate student who has just entered the society, I hope to set up a job search website specially prepared for fresh graduates to collect the information of autumn and spring recruitment of major Internet enterprises, and provide online guidance for these students to apply for jobs.This is for the students who want to attend to the Internet Industries. 
